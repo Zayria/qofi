@@ -7,7 +7,7 @@ Coffee colors based theme for Sublime Text editor.
 
 ## How to install qofi
 
-Clone this repistory `git clone https://github.com/freakyelf/qofi/` or click code and download zip. Move qofi file to C:\Users\YourName\AppData\Roaming\Sublime Text 3\Packages create a folder for color schemes and move in color scheme folder. Click preferences > select color scheme > qofi
+Clone this repistory `git clone https://github.com/diterbus/qofi/` or click code and download zip. Move qofi file to C:\Users\YourName\AppData\Roaming\Sublime Text 3\Packages create a folder for color schemes and move in color scheme folder. Click preferences > select color scheme > qofi
 
 
 > Contact me
