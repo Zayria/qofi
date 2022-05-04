@@ -12,4 +12,4 @@ Clone this repistory `git clone https://github.com/freakyelf/qofi/` or click cod
 
 > Contact me
 
-Discord: inci#0100
+Discord: diter#7313
